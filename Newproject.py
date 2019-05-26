@@ -31,11 +31,11 @@ for i in range(n+1):
     print(' ')
 
 class election():
-    def __init__(self,country):
-        self.country=country
-class Result():
-    def __init__(election,self)
-        self.winner=winner
+    def __init__(self,name,winner)
+	    self.name=name
+		self.winner=winner
+e=(election.name="Lokh Sabha",election.winner="Narendra Modi")
+print(election)
 
         
 

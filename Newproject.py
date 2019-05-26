@@ -33,6 +33,11 @@ for i in range(n+1):
 class election():
     def __init__(self,country):
         self.country=country
+class Result():
+    def __init__(election,self)
+        self.winner=winner
+
+        
 
 
 

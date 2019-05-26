@@ -1,2 +1,3 @@
-Hello Rakesh,
+Ashis:-Hello Rakesh,
 How are you doing ?
+Rakesh:-Hii Bro,  am doing great,just learning python to get bit lucky in the market
